@@ -237,6 +237,10 @@ Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 
 ---
 
+# 🖼️ Screenshots
+
+![Screenshot_16-5-2025_223922_localhost](https://github.com/user-attachments/assets/81ffd707-9561-4974-8e55-902d14d975ee)
+
 ## 🚦 Usage & Features Explained
 
 ### User Registration and Login
