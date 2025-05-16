@@ -12,9 +12,10 @@ An AI-powered MERN stack application for immersive, gamified language learning. 
 6. [🗂️ Backend API Modules](#️-backend-api-modules)  
 7. [🧩 Frontend Page Routing](#-frontend-page-routing)  
 8. [🌐 OAuth + Environment Variables](#-oauth--environment-variables)  
-9. [🔧 Installation & Running the App](#-installation--running-the-app)  
-10. [🚦 Usage & Features Explained](#-usage--features-explained)  
-11. [📜 License](#-license)
+9. [🔧 Installation & Running the App](#-installation--running-the-app)
+10. [📸 Screenshots](#-screenshots)  
+11. [🚦 Usage & Features Explained](#-usage--features-explained)  
+12. [📜 License](#-license)
 
 ---
 
