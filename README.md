@@ -239,9 +239,37 @@ Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 
 # 🖼️ Screenshots
 
+### 1. Home Page
+![Home Page](https://github.com/user-attachments/assets/510d52fb-cbbd-4d77-85ae-a54933d6a060)
 
-### Home Page
-![Home Page Screenshot](https://github.com/user-attachments/assets/81ffd707-9561-4974-8e55-902d14d975ee)
+### 2. Registration Page
+![Registration Page](https://github.com/user-attachments/assets/eaf14fba-10a6-4250-bd0c-ed84ce370c6a)
+
+### 3. Login Page
+![Login Page](https://github.com/user-attachments/assets/13ca6e7d-d5e3-45e5-8b27-e3ce9afc77e0)
+
+### 4. Language Selection Page
+![Language Selection Page](https://github.com/user-attachments/assets/9e7c0ea0-5e64-4f6a-8fef-422334486d26)
+
+### 5. Lesson List Page
+![Lesson List Page](https://github.com/user-attachments/assets/11032f3a-26ad-4205-b36a-a5a8e0928af9)
+
+### 6. Lesson Page
+![Lesson Page](https://github.com/user-attachments/assets/e8798970-5568-494d-bd94-65ac971f74a0)
+
+### 7. AI Voice Assistant Page
+![AI Voice Assistant Page](https://github.com/user-attachments/assets/723531ec-8ad1-461e-bbdc-9d495fdeb8b7)
+
+### 8. AI ChatBot Page
+![AI ChatBot Page](https://github.com/user-attachments/assets/1b47eea0-a5e5-4613-a614-a97b9e52f520)
+
+### 9. Quiz Page
+![Quiz Page](https://github.com/user-attachments/assets/4fe83639-43bb-413b-9f50-c043d58c0986)
+
+### 10. Flashcard Page
+![FlashCard Page](https://github.com/user-attachments/assets/65da5db1-c8f4-4199-b65b-c7a0112ff979)
+
+
 
 ## 🚦 Usage & Features Explained
 
